@@ -1,8 +1,6 @@
 ### benchmark 文档
 
-
 ### 常用api讲解
-
 
 ### 其他工具
 chromo
@@ -29,6 +27,11 @@ chromo
 
 ### 备用知识：
 - chromium中废弃Octanel; 原因是啥：主张通过跟踪和性能分析收集真实厂景下的性能测量数据来驱动性能提升。这种性能指标，是通过对用户的跟踪和分析收集而来的；
+
+
+优秀的库：
+1. web-tooling-benchmark 这个库，是由v8的团队输出的一个
+https://github.com/v8/web-tooling-benchmark
 
 
 
