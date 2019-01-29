@@ -8,7 +8,7 @@ describe('todos reducer', () => {
       todos(undefined, {})
     ).toEqual([
       {
-        text: 'Todo',
+        text: 'Todo1',
         completed: false,
         id: 0
       }

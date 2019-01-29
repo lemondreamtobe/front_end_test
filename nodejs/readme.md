@@ -3,8 +3,14 @@
 
 ## TD
 
+### 创建新的分支
+git checkout -b iss53
 
-
+### 安装依赖
 npm install
+
+### 跑测试
+mocha tests
+
 
 
