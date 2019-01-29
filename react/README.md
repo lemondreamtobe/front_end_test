@@ -1,7 +1,7 @@
 
 # 课程要求
 - 熟悉jest和enzyme的文档；
-- 将测试目标完成，并且通过；
+- 将测试目标完成，并且通过
 
 # TODO 项目
 一个极简的 react 版本 todo 应用，用 jest+enzyme 作为测试。需要了解如何搭建 jest + enzyme 测试 React 应用的话，可以参考这个项目。

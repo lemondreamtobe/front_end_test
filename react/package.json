@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "webpack-dev-server",
-    "test": "jest --findRelatedTests src/components/todo-creator/index.js"
+    "test": "jest"
   },
   "keywords": [
     "redux",

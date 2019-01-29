@@ -1,0 +1,25 @@
+{
+  "name": "@cvte/get-short-sign",
+  "version": "0.1.0",
+  "description": "check x-auth-short-sign for the shortener servers ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test",
+    "test-html": "mocha --reporter mochawesome test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.gz.cvte.cn:zhangguimei/getShortenerSign.git"
+  },
+  "author": "GM",
+  "license": "MIT",
+  "dependencies": {
+    "create-hmac": "^1.1.7"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "minimatch": "^3.0.4",
+    "mocha": "^5.2.0",
+    "mochawesome": "^3.1.1"
+  }
+}
